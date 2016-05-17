@@ -1,0 +1,6 @@
+[package]
+name = "rustendo64"
+version = "0.1.0"
+authors = ["Kevin Simon <kevin.simon93@gmail.com>"]
+
+[dependencies]
