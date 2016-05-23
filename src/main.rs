@@ -26,7 +26,7 @@ impl Cpu {
     fn new() -> Cpu {
         Cpu {
             gpr_regs: [0; NUM_GPR],
-            fpr_regs: [0; NUM_GPR],
+            fpr_regs: [0f64; NUM_GPR],
 
             reg_pc: 0,
 
