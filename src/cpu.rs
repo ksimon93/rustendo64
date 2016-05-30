@@ -49,7 +49,8 @@ impl Cpu {
 
     // TODO: Different interface
     pub fn run(&mut self) {
-        // TODO
+        loop {
+        }
     }
 }
 
